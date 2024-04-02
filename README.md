@@ -7,7 +7,7 @@
 
 <br>
 
-<pProduct-oriented programmer with a focus on UX/UI design. Technology enthusiast and passionate about AI technologies. Full-stack developer constantly learning and embracing new technologies.</p>
+<p>Product-oriented programmer with a focus on UX/UI design. Technology enthusiast and passionate about AI technologies. Full-stack developer constantly learning and embracing new technologies.</p>
 
 <br><br>
 
