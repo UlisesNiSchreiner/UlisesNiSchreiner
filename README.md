@@ -7,7 +7,7 @@
 
 <br>
 
-<p>Experienced in leading-edge software development within product-centric environments, specializing in scalable solutions. Skilled in driving end-to-end product lifecycle, from conceptualization to delivery, with a focus on UX/UI design, robust infrastructure, and handling increased user interactions.</p>
+<pProduct-oriented programmer with a focus on UX/UI design. Technology enthusiast and passionate about AI technologies. Full-stack developer constantly learning and embracing new technologies.</p>
 
 <br><br>
 
