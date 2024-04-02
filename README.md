@@ -6,21 +6,16 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 <p>Experienced in leading-edge software development within product-centric environments, specializing in scalable solutions. Skilled in driving end-to-end product lifecycle, from conceptualization to delivery, with a focus on UX/UI design, robust infrastructure, and handling increased user interactions.</p>
-
-
-<br><br>
 
 <br><br>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">My stack 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">👨🏻‍💻 My stack</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
